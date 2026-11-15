@@ -1,1 +1,1 @@
-# YKT-Disk-Y-neticisi-App
+# YKT-Disk-Yöneticisi-App
